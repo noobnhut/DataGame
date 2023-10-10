@@ -1,0 +1,25 @@
+﻿<Config>
+  <General>
+    <Language value="Tiếng  Việt" />
+  </General>
+  <Graphics>
+    <VSync value="false" />
+    <Resolution value="1600,900" />
+    <FullscreenMode value="1" />
+    <Quality value="1" />
+  </Graphics>
+  <Sound>
+    <Sound value="0" />
+    <Music value="0" />
+    <Menu value="0" />
+  </Sound>
+  <AmbientOcclusion value="1" />
+  <Antialiasing value="2" />
+  <DepthOfField value="0" />
+  <MotionBlur value="0" />
+  <RenderSize value="0.5" />
+  <InitialConfig value="false" />
+  <LockCursor value="true" />
+  <TargetFramerate value="200" />
+  <BGFramerate value="60" />
+</Config>
