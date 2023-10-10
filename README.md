@@ -1,0 +1,2 @@
+# DataGame
+%appdata%\CreamAPI
